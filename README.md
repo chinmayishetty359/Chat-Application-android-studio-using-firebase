@@ -7,6 +7,7 @@ A chatting application built with the help of firebase and Android Studio.
 * Uploading Profile Pic by using Glide and Firebase Storage
 * Search different users and Create New Forums For Discussion
 * LogOut to use multiple Accounts
+* Delete messages with a swipe.
 
 ## Screenshots
 
